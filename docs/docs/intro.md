@@ -15,11 +15,11 @@ ZMK is currently missing some features found in other popular firmware. This tab
 | ------------------------------------------------------------------------------------------------------------------------- | :-: | :-------: | :-: |
 | Low Latency BLE Support                                                                                                   | ✅  |    ✅     |     |
 | Multi-Device BLE Support                                                                                                  | ✅  |           |     |
-| [USB Connectivity](behaviors/outputs)                                                                                     | ✅  |    ✅     | ✅  |
+| [USB Connectivity](docs/behaviors/outputs)                                                                                     | ✅  |    ✅     | ✅  |
 | User Configuration Repositories                                                                                           | ✅  |           |     |
 | Split Keyboard Support                                                                                                    | ✅  |    ✅     | ✅  |
-| [Keymaps and Layers](behaviors/layers)                                                                                    | ✅  |    ✅     | ✅  |
-| [Hold-Tap](behaviors/hold-tap) (which includes [Mod-Tap](behaviors/mod-tap) and [Layer-Tap](behaviors/layers/#layer-tap)) | ✅  |    ✅     | ✅  |
+| [Keymaps and Layers](docs/behaviors/layers)                                                                                    | ✅  |    ✅     | ✅  |
+| [Hold-Tap](docs/behaviors/hold-tap) (which includes [Mod-Tap](docs/behaviors/mod-tap) and [Layer-Tap](docs/behaviors/layers/#layer-tap)) | ✅  |    ✅     | ✅  |
 | [Keyboard Codes](codes/#keyboard)                                                                                         | ✅  |    ✅     | ✅  |
 | [Media](codes/#media-controls) & [Consumer](codes/#consumer-controls) Codes                                               | ✅  |    ✅     | ✅  |
 | [Encoders](features/encoders)[^1]                                                                                         | ✅  |    ✅     | ✅  |
@@ -31,7 +31,7 @@ ZMK is currently missing some features found in other popular firmware. This tab
 | Mouse Keys                                                                                                                | 💡  |    ✅     | ✅  |
 | Low Active Power Usage                                                                                                    | ✅  |           |     |
 | Low Power Sleep States                                                                                                    | ✅  |    ✅     |     |
-| [Low Power Mode (VCC Shutoff)](behaviors/power)                                                                           | ✅  |    ✅     |     |
+| [Low Power Mode (VCC Shutoff)](docs/behaviors/power)                                                                           | ✅  |    ✅     |     |
 | Battery Reporting                                                                                                         | ✅  |    ✅     |     |
 | Shell over BLE                                                                                                            | 💡  |           |     |
 | Realtime Keymap Updating                                                                                                  | 💡  |           | ✅  |
